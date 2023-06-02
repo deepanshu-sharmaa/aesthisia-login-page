@@ -1,9 +1,9 @@
-import Login from "./components/Login";
+import Login from "./components/Login.tsx";
 
 function App() {
   return (
     <div>
-      <Login/>
+      <Login />
     </div>
   );
 }
